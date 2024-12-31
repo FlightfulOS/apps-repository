@@ -1,5 +1,5 @@
 signatures = ["067a40c4193aad51ac87f9ddfdebb15e24a1850babfa4821c28c5c25c3fdc071"]
-source = "Mirror"
+source = "Accrescent (mirror)"
 
 staticDeps = ["app.grapheneos.apps >= 24"]
 optOutOfBulkUpdates = true
